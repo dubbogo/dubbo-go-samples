@@ -39,7 +39,7 @@ env:
   UPSTREAM_REPO: dubbo-go-samples
 
   # Fork repository (B repository - the organization/team fork)
-  FORK_ORG: dubbo-go
+  FORK_ORG: dubbogo
   FORK_REPO: dubbo-go-samples
 
   # Branch name (main/master/develop)
